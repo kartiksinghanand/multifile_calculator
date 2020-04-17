@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587114306 source:e:\learncpp\multifile_calculator\main.cpp
+	<iostream>
+	<conio.h>
+
+1587114002 source:e:\learncpp\multifile_calculator\calculator_functions.cpp
+	<iostream>
+
